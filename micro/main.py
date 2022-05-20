@@ -56,7 +56,7 @@ def typewrite(d):
     set((1,1,0))
     wait(d)
     solid()
-    wait(d * 2)
+    wait(d * 3)
 
 def sides_center(d):
     set((0,1,0))
